@@ -73,6 +73,10 @@ class LessonController < ApplicationController
     @items = {"フライパン"=>2680,"ワイングラス"=>2550,"ペッパーミル"=>4515,"ピーラー"=>945}
   end
 
+  def excersise3_c
+    @countries=["イタリア","フランス","ドイツ"]
+  end
+
   private
   def set_message
     @message = "こにゃにゃちわ"
