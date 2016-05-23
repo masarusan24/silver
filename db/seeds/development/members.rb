@@ -1,4 +1,4 @@
-names = %w(Masato Teiji Nakayama Osamu Ushiyama Fukuoka TanakaHiro TanakaHide Kacho)
+names = %w(Masato Teiji Nakayama Osamu Ushiyama Fukuoka TanakaHiro TanakaHide Kacho Mamoru)
 fnames = ["伊藤","中山","下田","登利谷"]
 gnames = ["真人","停司","祐輔","健一"]
 0.upto(9) do |idx|
